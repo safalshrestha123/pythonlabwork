@@ -1,4 +1,4 @@
-# Write a program that reads the length of the base and the height of a rt angle triangle
+# 2.Write a program that reads the length of the base and the height of a rt angle triangle
 #and prints the area.every number is given on a separate line
 
 length = int(input("Enter the value of lenth:"))
