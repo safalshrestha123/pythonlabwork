@@ -1,4 +1,4 @@
-#Given the integer N- the number of minutes that is passed science midnight.\
+#4.Given the integer N- the number of minutes that is passed science midnight.\
 #how many hours and minutes are displayed on the 24th digital code?
 #the program should print two numbers : the number of hours (between 0 and 23)
 #and the number of minutes (between 0 and 59).
